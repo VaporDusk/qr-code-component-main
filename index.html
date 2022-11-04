@@ -12,8 +12,8 @@
   <style>
     body {
       background-color: hsl(212, 45%, 89%);
-      display: grid;
-      place-items: center;
+      /*display: grid;
+      place-items: center;*/
       min-height: 100vh;
       font-family: 'Outfit', sans-serif;
       text-align: center;
@@ -23,12 +23,14 @@
       font-size: 15px;
     }
     .qr-code {
+      display: inline-block;
       box-sizing: border-box;
       background-color: hsl(0, 0%, 100%);
       border-radius: 17px;
       padding: 16px;
       width: 320px;
       height: 497px;
+      margin: 85px 0px;
     }
     .qr-code img {
       max-width: 100%;
@@ -43,8 +45,13 @@
       margin: 0px 25px;
       color: hsl(220, 15%, 55%);
     }
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+    .attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
   </style>
 </head>
 <body>
