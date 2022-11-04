@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpeg)
+![](./screenshot-edge.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/VaporDusk/qr-code-component-main]
+- Live Site URL: [https://vapordusk.github.io/qr-code-component-main/]
 
 ## My process
 
@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 - How does CSS work with HTML
-- How to make repository
+- How to make repository on Git
 - How to commit changes
 - How to publish solution
 
@@ -52,9 +52,9 @@ Continue to improve my HTML and CSS
 
 ## Author
 
-- Website - [VaporDusk](https://www.your-site.com)
-- Frontend Mentor - [@vapordusk](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@vapordusk](https://www.twitter.com/yourusername)
+- Website - [https://github.com/VaporDusk]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/VaporDusk]
+- Telegram - [@VaporDusk]
 
 ## Acknowledgments
 
