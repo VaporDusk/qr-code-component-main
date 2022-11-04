@@ -11,10 +11,16 @@
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
     body {
-      margin: 0;
       background-color: hsl(212, 45%, 89%);
-      min-width: 375px;
-      padding: 85px 0;
+      display: grid;
+      place-items: center;
+      min-height: 100vh;
+      font-family: 'Outfit', sans-serif;
+      text-align: center;
+      margin-block: 0;
+      margin-inline: 0;
+      margin: 0;
+      font-size: 15px;
     }
     .qr-code {
       box-sizing: border-box;
@@ -23,34 +29,22 @@
       padding: 16px;
       width: 320px;
       height: 497px;
-      margin: 0 auto;
     }
     .qr-code img {
       max-width: 100%;
       border-radius: 9px;
     }
-    .qr-code h1, .qr-code p {
-      font-family: 'Outfit', sans-serif;
-      text-align: center;
-    }
     .qr-code h1 {
       font-size: 22px;
-      font-weight: 700;
-      margin: 25px auto 20px auto; 
+      margin: 25px auto 20px auto;
+      color: hsl(0, 0%, 25%);
     }
     .qr-code p {
-      font-weight: 400;
-      font-size: 15px;
-      margin: 0px 20px;
+      margin: 0px 25px;
       color: hsl(220, 15%, 55%);
     }
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
-    @media screen and (min-width: 1440px) {
-      .container {
-        padding: 150px 0;
-      }
-    }
   </style>
 </head>
 <body>
